@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Lab02/Aims/Cart/|Lab02/Aims/Disc/|Lab02/Aims/Store/" kind="src" path=""/>
+	<classpathentry kind="src" path="Lab02/Aims/Cart"/>
+	<classpathentry kind="src" path="Lab02/Aims/Disc"/>
+	<classpathentry kind="src" path="Lab02/Aims/Store"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
